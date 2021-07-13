@@ -1,0 +1,15 @@
+.parent{
+width: 100%;
+
+}
+.child{
+width: 25%;
+
+
+}
+div{
+margin: 05px;
+background-color: blu;
+padding: 20px;
+
+}

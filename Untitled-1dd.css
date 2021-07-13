@@ -1,0 +1,17 @@
+.parent{
+    width: 100%;
+    
+    align-items: center;
+    
+    }
+    .child{
+    width: 25%;
+    text-align: center;
+    align-items: center;
+    
+    }
+    div{
+    margin: 05px;
+    
+    padding: 20px;
+    }

@@ -1,0 +1,29 @@
+.blue,.brown,.purple,.red{
+width: 400px;
+background-color: yellow;
+padding: 30px;
+margin: 10px;
+text-align: center;
+}
+
+.red{
+    color: red;
+    border-bottom:red solid 5px;
+
+}
+.brown{
+    color:saddlebrown;
+    border-bottom:saddlebrown solid 5px;
+
+}
+.blue{
+    color: blue;
+    border-bottom:blue solid 5px;
+
+}
+.purple{
+color: blueviolet;
+border-bottom: blueviolet solid 5px;
+
+
+}

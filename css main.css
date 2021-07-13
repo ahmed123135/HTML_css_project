@@ -1,0 +1,18 @@
+body{
+    background-image:url("1581481407499.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+    }
+    a{
+text-decoration: cornsilk;
+color: cornflowerblue;
+    }
+    div{
+background-color: rgb(15, 15, 15);
+padding: 30px;
+border-radius: 20px;
+margin: 20px;
+    }
